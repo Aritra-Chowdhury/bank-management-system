@@ -1,0 +1,17 @@
+
+.review-content{
+    padding: 1rem;
+}
+
+.review-item {
+    border: 2px solid #240370 ;
+    border-radius: 7px;
+    padding: 0.5rem;
+    font-family: initial;
+    text-align: center;
+}
+
+.form-action {
+    text-align: center;
+    margin: 1rem;
+  }

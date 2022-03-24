@@ -1,0 +1,40 @@
+.form-padding{
+    padding-left: 3%; 
+}
+
+.form-headers{
+    color: white;
+    background-color: #240370;
+    padding: 8px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-top: -1rem;
+    box-shadow: 0 0px 8px rgb(0 0 0 / 25%);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.form-footer{
+    color: black;
+    background-color: #808080b3;
+    padding: 8px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-bottom: -1rem;
+    box-shadow: 0 0px 8px rgb(0 0 0 / 25%);
+    border-bottom-left-radius: 7px;
+    font-size: x-small;;
+    text-align: right;
+    border-bottom-right-radius: 7px;
+}
+
+.review-content{
+    padding: 1rem;
+}
+
+.review-item {
+    border-radius: 7px;
+    padding: 0.5rem;
+    font-family: auto;
+
+}

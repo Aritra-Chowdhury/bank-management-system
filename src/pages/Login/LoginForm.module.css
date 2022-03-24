@@ -1,0 +1,13 @@
+.form-padding{
+    padding-left: 3%; 
+    padding-top: 3%
+}
+
+.form-header{
+    text-align: center;
+}
+
+.form-width{
+    max-width: 43rem;
+    margin: 3rem auto
+}

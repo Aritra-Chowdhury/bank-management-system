@@ -1,0 +1,22 @@
+.form-loan-details{
+    margin: 2rem auto;
+    border: 2px solid #240370;
+    cursor: pointer;
+}
+
+.form-content{
+    padding: 1rem;
+}
+
+.form-footer{
+    color: #fdfdfd!important;
+    background-color: rgb(36 3 112);
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-bottom: -1rem;
+    font-size: small;
+    text-align: right;
+    padding-right: 1rem;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}

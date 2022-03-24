@@ -1,0 +1,24 @@
+.offers{
+    list-style: none;
+    margin: 1rem auto;
+}
+
+.card-body{
+    color: black;
+    padding: 5%;
+    border-radius: 35px;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
+    text-align: center;
+    font-style: normal;
+    width: 80%;
+    margin: inherit;
+}
+
+.card-action{
+    border-top: 2px Solid #240370;
+    padding: 5%;
+}
+
+.form-header{
+    text-align: center;
+}

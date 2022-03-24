@@ -1,0 +1,58 @@
+.form-padding{
+    padding-left: 3%; 
+}
+
+.form-headers{
+    color: white;
+    background-color: #240370;
+    padding: 8px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    box-shadow: 0 0px 8px rgb(0 0 0 / 25%);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.tracker{
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.trackerItem{
+    font-size: small;
+    padding: 2%;
+    border-radius: 14px;
+    background-color: #606060;
+    color: white;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
+}
+
+.active {
+    background-color: #240370 ;
+    border: 2px solid #240370;
+;
+}
+
+.tracker-trace{
+    width: 14%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.form-header{
+    text-align: center;
+}
+
+.form-width{
+    max-width: 43rem;
+    margin: 3rem auto
+}
+
+.error-message{
+    text-align: center;
+    color: red;
+}
+
